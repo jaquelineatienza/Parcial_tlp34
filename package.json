@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "tsx": "^4.20.5"
+  },
+  "name": "parcial_jaqueline_atienza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "tsx watch src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
